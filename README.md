@@ -1,7 +1,7 @@
 # Categorise Social Media Profile Based on Bangla Post
 
-In this project we have categorised the Social Media Profile based on their bangla comments in Facebook. 
-We have categorised the Social Media Profile in following six categories:
+In this project I have categorised the Social Media Profile based on their bangla comments in Facebook. 
+I have categorised the Social Media Profile in following six categories:
 - Sport
 - Religious
 - Travel
@@ -11,7 +11,7 @@ We have categorised the Social Media Profile in following six categories:
 
 ## Data 
 
-We have collected total 7113 bangla posts from Facebook in aforementioned six categories. Followning Graph is showing the number of posts against their categories. 
+I have collected total 7113 bangla posts from Facebook in aforementioned six categories. Followning Graph is showing the number of posts against their categories. 
 ![Screenshot 2021-11-09 at 9 29 47 PM](https://user-images.githubusercontent.com/23418170/140953751-e71227af-bb08-426a-ab37-66c2ed8fd8ad.png)
 
 For downloading the data please check the following link:
