@@ -21,7 +21,7 @@ https://github.com/ruman23/categoriseSocialMediaProfile/blob/main/Data.csv
 
 For cloning the repository please paste the following command to your terminal 
 ```bash
-https://github.com/ruman23/categoriseSocialMediaProfile.git
+git clone https://github.com/ruman23/categoriseSocialMediaProfile.git
 ```
 
 # Download the Repository
