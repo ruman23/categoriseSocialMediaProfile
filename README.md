@@ -1,4 +1,4 @@
-# Categorise Social Media Profile Based on Bangla Post
+# Categorize Social Media Profile Based on Bangla Post
 
 In this project I have categorised the Social Media Profile based on their bangla comments in Facebook. 
 I have categorised the Social Media Profile in following six categories:
