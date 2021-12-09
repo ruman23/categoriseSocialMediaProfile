@@ -1,7 +1,7 @@
 # Categorize Social Media Profile Based on Bangla Post
 
-In this project I have categorised the Social Media Profile based on their bangla posts in Facebook. 
-I have categorised the Social Media Profile in following six categories:
+In this project I have categorised the Social Media Profile basedIn this project I have categorized the Social Media Profile based on their Bangla posts on Facebook. I have categorized the Social Media Profile into the following six categories:
+
 - Sport
 - Religious
 - Travel
